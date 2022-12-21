@@ -1,4 +1,4 @@
-u#!/usr/bin/python3
+#!/usr/bin/python3
 """Square module.
 This module contains a class that defines a square and its size and its
 position on the screen, checking if the given values are right, and a setter
